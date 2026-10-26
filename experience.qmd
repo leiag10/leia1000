@@ -2,24 +2,115 @@
 title: Experience
 ---
 
-[PEOPLE FIRST]{.eyebrow}
+[RESEARCH · CLINICAL CARE · COMMUNITY]{.eyebrow}
 
-My experience combines careful clinical work with compassionate patient support.
+## Where have I worked?
 
-## Clinical care
+My path brings together mental health research, patient care, and a commitment to accessible, inclusive science.
 
-At the Interventional Pain and Recovery Clinic in Houston, I worked as a clinical medical assistant and developed an interest in working with patients experiencing addiction.
+::: {.career-timeline aria-label="Research and clinical experience, most recent first"}
 
-Community clinic volunteering also gave me experience with triage, collecting medical histories, and supporting treatment.
+::: {.timeline-entry}
+::: {.timeline-date}
+Winter 2026 – Present
+:::
+::: {.timeline-card}
+### Clinical Research Assistant · ASTRA
 
-## Mental health research
+![The Ohio State University logo](assets/institutions/ohio-state.png){.institution-logo .institution-logo-wide}
 
-My research experience includes volunteering with a suicide and depression study at the Louis Stokes Cleveland VA. My work has included patient recruitment and screening, medical record review, and informed consent support.
+[The Ohio State University Wexner Medical Center]{.timeline-organization}
 
-## Research interests
+Working with Dr. Nicholas Allan on ASTRA (R01AG077569), supporting study interventions, neuropsychological assessments, and day-to-day research operations.
+:::
+:::
 
-- Addiction and recovery
-- Depression and suicide prevention
-- Patient-centered clinical research
+::: {.timeline-entry}
+::: {.timeline-date}
+Spring 2025 – Present
+:::
+::: {.timeline-card}
+### Research Project Coordinator · ARC
 
-[Download my CV (Word document)](assets/leia-george-cv.docx){.btn .btn-primary}
+![The Ohio State University logo](assets/institutions/ohio-state.png){.institution-logo .institution-logo-wide}
+
+[The Ohio State University Wexner Medical Center]{.timeline-organization}
+
+Working with Drs. Melanie Bozzay and Nicholas Allan on the Advanced Resilience and Coping Study (R01MH136286). My work includes study coordination, participant recruitment and assessment, REDCap database management, and ecological momentary assessment workflows.
+:::
+:::
+
+::: {.timeline-entry}
+::: {.timeline-date}
+Fall 2024 – May 2025
+:::
+::: {.timeline-card}
+### Graduate Research Assistant
+
+[Louis Stokes Cleveland VA Medical Center]{.timeline-organization}
+
+Supported research with Dr. James Overholser on depression, suicidal ideation, and ambivalence in veterans through recruitment, informed consent, medical record review, and data collection.
+:::
+:::
+
+::: {.timeline-entry}
+::: {.timeline-date}
+Fall 2023 – Winter 2024
+:::
+::: {.timeline-card}
+### Graduate Student Assistant
+
+![Case Western Reserve University logo](assets/institutions/case-western.png){.institution-logo}
+
+[Case Western Reserve University School of Medicine]{.timeline-organization}
+
+Worked in the Office of Diversity, Equity, and Inclusive Excellence with Dr. Adrianne Fletcher, preparing leadership reports, communicating survey findings, and coordinating inclusion events.
+:::
+:::
+
+::: {.timeline-entry}
+::: {.timeline-date}
+Summer 2021 – Fall 2022
+:::
+::: {.timeline-card}
+### Clinical Senior Team Member
+
+![Interventional Pain and Recovery Center logo](assets/institutions/interventional-pain-recovery.png){.institution-logo}
+
+[Interventional Pain & Recovery Center]{.timeline-organization}
+
+Supported patient care in an addiction and pain management clinic serving the greater Houston area, including collecting histories and triage.
+:::
+:::
+
+::: {.timeline-entry}
+::: {.timeline-date}
+Fall 2019 – Fall 2020
+:::
+::: {.timeline-card}
+### Research Assistant
+
+![Baylor University logo](assets/institutions/baylor.png){.institution-logo}
+
+[Baylor University · Water Quality and Ecotoxicology Lab]{.timeline-organization}
+
+Worked with Dr. Bryan Brooks on environmental toxicology research, supporting experiments, sample collection, literature reviews, and laboratory operations.
+:::
+:::
+
+::: {.timeline-entry}
+::: {.timeline-date}
+Spring 2018 – Spring 2021
+:::
+::: {.timeline-card}
+### Senior Intern
+
+[Meyers Clinic]{.timeline-organization}
+
+Supported clinical and administrative care, including taking vital signs, triage, insurance checks, and patient paperwork.
+:::
+:::
+
+:::
+
+[View my CV](cv.qmd){.btn .btn-primary}

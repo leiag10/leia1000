@@ -1,0 +1,9 @@
+html { color: #262626; background: #fff; font-family: Arial, sans-serif; line-height: 1.55; }
+body { max-width: 850px; margin: 0 auto; padding: 2.5rem 2rem; overflow-wrap: anywhere; }
+h1, h2, h3 { color: #591e2a; line-height: 1.25; }
+p, li { margin-bottom: .7rem; }
+a { color: #591e2a; }
+img { max-width: 100%; height: auto; }
+table { border-collapse: collapse; width: 100%; }
+td, th { padding: .4rem; vertical-align: top; }
+@media (max-width: 600px) { body { padding: 1.2rem; font-size: .95rem; } }

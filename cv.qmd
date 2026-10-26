@@ -4,8 +4,8 @@ title: Curriculum vitae
 
 [BACKGROUND & EXPERIENCE]{.eyebrow}
 
-For a detailed overview of my education and experience, download my CV.
+October 2026 CV draft
 
-[Download CV (Word document)](assets/leia-george-cv.docx){.btn .btn-primary}
-
-The linked document is my October 2026 CV draft. For research inquiries, [contact me](mailto:lxg401@case.edu).
+```{=html}
+<iframe class="cv-viewer" src="assets/cv-viewer.html" title="Leia George's October 2026 curriculum vitae" loading="lazy"></iframe>
+```

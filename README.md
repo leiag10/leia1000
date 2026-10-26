@@ -25,3 +25,7 @@ Edit `index.qmd`, `experience.qmd`, `education.qmd`, `cv.qmd`, and `styles.css`.
 Commit the source and rendered `docs/` files. In this repository's GitHub Settings → Pages, select **Deploy from a branch**, the `main` branch, and the `/docs` folder. The expected project-site address is `https://leiag10.github.io/leia1000/` after deployment; deployment has not been configured or verified by this setup.
 
 The `leiag100` repository is independent and has not been changed.
+
+## Update the scrollable CV viewer
+
+Replace `assets/leia-george-cv.docx`, then run `bash scripts/render-cv.sh` with Pandoc 3.1.11.1 (or a compatible version), followed by `quarto render`. The script converts the Word document to a self-contained HTML document, preserving its text and basic formatting for the embedded scrollable viewer. The viewer has no download toolbar or button. This HTML presentation may differ from Word's page layout.

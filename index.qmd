@@ -12,9 +12,13 @@ title-block-banner: false
 
 I'm Leia George. My interests bring together clinical care, mental health research, and the science of how we heal.
 
-My background spans medical physiology and biophysics, hands-on clinical support, and research with a focus on mental health. I'm particularly interested in addiction, depression, and the experiences that shape patient care.
+I am a Research Project Coordinator in the Department of Psychiatry and Behavioral Health at [**The Ohio State University Wexner Medical Center**](https://wexnermedical.osu.edu/), where I work with Drs. Nicholas Allan and Melanie Bozzay on NIH-funded research, including the Advanced Resilience and Coping Study (ARC; R01MH136286) and Anxiety Sensitivity Treatment to Reduce Anxiety in Alzheimer's (ASTRA; R01AG077569). My broader research interests lie at the intersection of clinical psychology, suicide prevention, and mental health interventions, with an emphasis on understanding psychological processes and improving clinical care.
 
-[Explore my experience](experience.qmd){.btn .btn-primary} [Get in touch](mailto:lxg401@case.edu){.btn .btn-outline-primary}
+I earned my Master of Science in Medical Physiology and Biophysics from [**Case Western Reserve University**](https://case.edu/) and my bachelor's degree from [**Baylor University**](https://www.baylor.edu/).
+
+Beyond research, I am passionate about mental health advocacy, social justice, and addressing structural barriers to equitable care. I value collaborative, accessible, and inclusive science that reflects the diversity of the populations it aims to serve. I am always happy to connect with fellow researchers and potential collaborators!
+
+[Explore my experience](experience.qmd){.btn .btn-primary} [Get in touch](mailto:Leia.george@osumc.edu){.btn .btn-outline-primary}
 :::
 
 ::: {.hero-photo}
@@ -22,23 +26,6 @@ My background spans medical physiology and biophysics, hands-on clinical support
 :::
 :::
 
-## Where science meets care
-
-::: {.grid}
-::: {.g-col-12 .g-col-md-4 .focus-card}
-### Clinical experience
-Patient-centered support informed by work in clinical and community settings.
-:::
-::: {.g-col-12 .g-col-md-4 .focus-card}
-### Mental health research
-An interest in addiction, suicide prevention, and depression research.
-:::
-::: {.g-col-12 .g-col-md-4 .focus-card}
-### Lifelong learning
-A foundation at Baylor University and graduate study at Case Western Reserve University.
-:::
-:::
-
 ## Let's connect
 
-For research opportunities, potential collaborations, or a conversation about shared interests, [reach me by email](mailto:lxg401@case.edu).
+For opportunities, collaborations, or a conversation about shared interests, [reach me by email](mailto:lxg401@case.edu).
