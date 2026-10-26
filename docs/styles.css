@@ -92,7 +92,10 @@ a:focus-visible, button:focus-visible, .btn:focus-visible { outline: 3px solid v
 .cv-viewer:focus-visible { outline: 3px solid var(--velvet); outline-offset: 4px; }
 @media (max-width: 767px) { .cv-viewer { height: 75vh; min-height: 360px; } }
 
-.photo-gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 2rem; max-width: 700px; }
-.photo-gallery img { display: block; width: 100%; height: auto; border-radius: .5rem; }
-.photo-gallery figure { margin: 0; max-width: 420px; }
-.photo-gallery figcaption { color: var(--moss); padding-top: .5rem; }
+/* Each figure gets its own grid cell and visible space on every screen size. */
+.photo-gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 3rem 2rem; max-width: 900px; align-items: start; }
+.photo-gallery .photo-card { min-width: 0; padding: 1rem; background: white; border: 1px solid var(--pink-silk); border-radius: .65rem; }
+.photo-gallery img { display: block; width: 100%; height: auto; border-radius: .4rem; }
+.photo-gallery figure, .photo-gallery .quarto-figure { margin: 0; width: 100%; }
+.photo-gallery figcaption { color: var(--moss); padding-top: 1rem; line-height: 1.6; text-align: left; }
+.photo-gallery figcaption strong { color: var(--velvet); }
