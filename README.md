@@ -18,7 +18,7 @@ In the prepared cloud environment, Quarto is at `/workspace/tools/quarto-1.4.555
 quarto render
 ```
 
-Edit `index.qmd`, `experience.qmd`, `education.qmd`, `cv.qmd`, and `styles.css`. Update navigation and site settings in `_quarto.yml`. Update the PDF in `assets/` when a newer CV is available. Biographical details were carried over from the previous website and should be reviewed for currency.
+Edit `index.qmd`, `experience.qmd`, `photos.qmd`, `cv.qmd`, and `styles.css`. Update navigation and site settings in `_quarto.yml`. Update the PDF in `assets/` when a newer CV is available. Biographical details were carried over from the previous website and should be reviewed for currency.
 
 ## Host with GitHub Pages
 
@@ -28,4 +28,8 @@ The `leiag100` repository is independent and has not been changed.
 
 ## Update the scrollable CV viewer
 
-Replace `assets/leia-george-cv.docx`, then run `bash scripts/render-cv.sh` with Pandoc 3.1.11.1 (or a compatible version), followed by `quarto render`. The script converts the Word document to a self-contained HTML document, preserving its text and basic formatting for the embedded scrollable viewer. The viewer has no download toolbar or button. This HTML presentation may differ from Word's page layout.
+Replace `assets/leia-george-cv.docx`, then run `bash scripts/render-cv.sh` with LibreOffice (`soffice`) installed, followed by `quarto render`. This exports the supplied Word document to PDF for an embedded scrollable document viewer. The Word file itself remains unchanged. PDF export preserves document formatting rather than converting content into webpage paragraphs, though font availability can affect layout. Browser support for hiding the PDF toolbar varies; the CV page has no download button.
+
+## Photos
+
+Edit `photos.qmd` and put new photos in `assets/`. The initial gallery uses the existing portrait. Education information remains in the homepage biography and CV.

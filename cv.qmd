@@ -2,10 +2,6 @@
 title: Curriculum vitae
 ---
 
-[BACKGROUND & EXPERIENCE]{.eyebrow}
-
-October 2026 CV draft
-
 ```{=html}
-<iframe class="cv-viewer" src="assets/cv-viewer.html" title="Leia George's October 2026 curriculum vitae" loading="lazy"></iframe>
+<iframe class="cv-viewer" src="assets/leia-george-cv.pdf#toolbar=0&navpanes=0&view=FitH" title="Leia George's curriculum vitae" loading="lazy"></iframe>
 ```

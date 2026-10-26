@@ -1,0 +1,7 @@
+---
+title: Photos
+---
+
+::: {.photo-gallery}
+![Leia George](assets/headshot.jpg)
+:::

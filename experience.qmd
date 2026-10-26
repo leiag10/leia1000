@@ -21,7 +21,10 @@ Winter 2026 – Present
 
 [The Ohio State University Wexner Medical Center]{.timeline-organization}
 
-Working with Dr. Nicholas Allan on ASTRA (R01AG077569), supporting study interventions, neuropsychological assessments, and day-to-day research operations.
+Department of Psychiatry and Behavioral Health  
+Anxiety Sensitivity Treatment to Reduce Anxiety in Alzheimer's (ASTRA)  
+R01AG077569  
+PI: Nicholas Allan, PhD
 :::
 :::
 
@@ -36,7 +39,10 @@ Spring 2025 – Present
 
 [The Ohio State University Wexner Medical Center]{.timeline-organization}
 
-Working with Drs. Melanie Bozzay and Nicholas Allan on the Advanced Resilience and Coping Study (R01MH136286). My work includes study coordination, participant recruitment and assessment, REDCap database management, and ecological momentary assessment workflows.
+Department of Psychiatry and Behavioral Health  
+Advanced Resilience and Coping Study (ARC)  
+R01MH136286  
+PIs: Melanie Bozzay, PhD, and Nicholas Allan, PhD
 :::
 :::
 
@@ -49,7 +55,8 @@ Fall 2024 – May 2025
 
 [Louis Stokes Cleveland VA Medical Center]{.timeline-organization}
 
-Supported research with Dr. James Overholser on depression, suicidal ideation, and ambivalence in veterans through recruitment, informed consent, medical record review, and data collection.
+Depression and suicide prevention research  
+PI: James Overholser, PhD
 :::
 :::
 
@@ -64,7 +71,8 @@ Fall 2023 – Winter 2024
 
 [Case Western Reserve University School of Medicine]{.timeline-organization}
 
-Worked in the Office of Diversity, Equity, and Inclusive Excellence with Dr. Adrianne Fletcher, preparing leadership reports, communicating survey findings, and coordinating inclusion events.
+Office of Diversity, Equity, and Inclusive Excellence  
+Supervisor: Adrianne Fletcher, PhD
 :::
 :::
 
@@ -79,7 +87,7 @@ Summer 2021 – Fall 2022
 
 [Interventional Pain & Recovery Center]{.timeline-organization}
 
-Supported patient care in an addiction and pain management clinic serving the greater Houston area, including collecting histories and triage.
+
 :::
 :::
 
@@ -92,9 +100,11 @@ Fall 2019 – Fall 2020
 
 ![Baylor University logo](assets/institutions/baylor.png){.institution-logo}
 
-[Baylor University · Water Quality and Ecotoxicology Lab]{.timeline-organization}
+[Baylor University]{.timeline-organization}
 
-Worked with Dr. Bryan Brooks on environmental toxicology research, supporting experiments, sample collection, literature reviews, and laboratory operations.
+Water Quality and Ecotoxicology Lab  
+
+PI: Bryan Brooks, PhD
 :::
 :::
 
@@ -107,7 +117,7 @@ Spring 2018 – Spring 2021
 
 [Meyers Clinic]{.timeline-organization}
 
-Supported clinical and administrative care, including taking vital signs, triage, insurance checks, and patient paperwork.
+
 :::
 :::
 

@@ -6,11 +6,7 @@ title-block-banner: false
 
 ::: {.portfolio-hero}
 ::: {.hero-copy}
-[CARE · CURIOSITY · CONNECTION]{.eyebrow}
-
-# A commitment to people.
-
-I'm Leia George. My interests bring together clinical care, mental health research, and the science of how we heal.
+# Aspiring Clinical Psychologist
 
 I am a Research Project Coordinator in the Department of Psychiatry and Behavioral Health at [**The Ohio State University Wexner Medical Center**](https://wexnermedical.osu.edu/), where I work with Drs. Nicholas Allan and Melanie Bozzay on NIH-funded research, including the Advanced Resilience and Coping Study (ARC; R01MH136286) and Anxiety Sensitivity Treatment to Reduce Anxiety in Alzheimer's (ASTRA; R01AG077569). My broader research interests lie at the intersection of clinical psychology, suicide prevention, and mental health interventions, with an emphasis on understanding psychological processes and improving clinical care.
 
@@ -22,10 +18,10 @@ Beyond research, I am passionate about mental health advocacy, social justice, a
 :::
 
 ::: {.hero-photo}
-![Portrait of Leia George](assets/headshot.jpg)
+![](assets/headshot.jpg){fig-alt="Portrait of Leia George"}
 :::
 :::
 
 ## Let's connect
 
-For opportunities, collaborations, or a conversation about shared interests, [reach me by email](mailto:lxg401@case.edu).
+For opportunities, collaborations, or a conversation about shared interests, [reach me by email](mailto:Leia.george@osumc.edu).

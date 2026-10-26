@@ -4,7 +4,7 @@ project:
   render:
     - index.qmd
     - experience.qmd
-    - education.qmd
+    - photos.qmd
     - cv.qmd
   resources:
     - assets/
@@ -17,12 +17,12 @@ website:
         text: About
       - href: experience.qmd
         text: Experience
-      - href: education.qmd
-        text: Education
+      - href: photos.qmd
+        text: Photos
       - href: cv.qmd
         text: CV
       - icon: envelope
-        href: mailto:lxg401@case.edu
+        href: mailto:Leia.george@osumc.edu
         aria-label: Email Leia
   page-footer:
     left: Leia George
