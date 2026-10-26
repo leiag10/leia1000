@@ -1,21 +1,22 @@
 ---
 title: Photos
+body-classes: photos-page
 ---
 
 ::: {.photo-gallery}
 ::: {.photo-card}
-![**National Academy of Neuropsychology** — Presented in Chicago, IL.](assets/nan.JPG){fig-alt="Presenting a research poster at the National Academy of Neuropsychology conference in Chicago, Illinois." loading="lazy"}
+![[**National Academy of Neuropsychology**](https://www.nanonline.org/). Presented in Chicago, IL.](assets/nan.JPG){fig-alt="Presenting a research poster at the National Academy of Neuropsychology conference in Chicago, Illinois." loading="lazy"}
 :::
 
 ::: {.photo-card}
-![**Computational Psychiatry Conference** — Presented in New Haven, CT.](assets/comp_psych.JPG){fig-alt="Presenting a research poster at the Computational Psychiatry Conference in New Haven, Connecticut." loading="lazy"}
+![[**Computational Psychiatry Conference**](https://www.cpconf.org/). Presented in New Haven, CT.](assets/comp_psych.JPG){fig-alt="Presenting a research poster at the Computational Psychiatry Conference in New Haven, Connecticut." loading="lazy"}
 :::
 
 ::: {.photo-card}
-![**Suicide Research Symposium** — Presented virtually from the [S.T.R.I.V.E. office at The Ohio State University](https://medicine.osu.edu/departments/psychiatry-and-behavioral-health/strive).](assets/suicide_research_symposium.jpeg){fig-alt="Group photo at the S.T.R.I.V.E. office for the virtual Suicide Research Symposium." loading="lazy"}
+![[**Suicide Research Symposium**](https://www.suicideresearchsymposium.com/). Presented virtually from the [S.T.R.I.V.E. office at The Ohio State University](https://medicine.osu.edu/departments/psychiatry-and-behavioral-health/strive).](assets/suicide_research_symposium.jpeg){fig-alt="Group photo at the S.T.R.I.V.E. office for the virtual Suicide Research Symposium." loading="lazy"}
 :::
 
 ::: {.photo-card}
-![**Suicide Prevention Conference** — Group photo at The Ohio State University.](assets/suicide_prevention_conference.jpeg){fig-alt="Group photo at the Suicide Prevention Conference at The Ohio State University." loading="lazy"}
+![[**Suicide Prevention Conference**](https://medicine.osu.edu/departments/psychiatry-and-behavioral-health/strive). Group photo at The Ohio State University.](assets/suicide_prevention_conference.jpeg){fig-alt="Group photo at the Suicide Prevention Conference at The Ohio State University." loading="lazy"}
 :::
 :::
