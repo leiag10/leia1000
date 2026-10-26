@@ -8,18 +8,19 @@ project:
     - cv.qmd
   resources:
     - assets/
+    - styles.css
 website:
   title: Leia George
   description: Clinical care, mental health research, and a commitment to people.
   navbar:
     right:
-      - href: index.qmd
+      - href: index.html?v=site-20261026-r2
         text: About
-      - href: experience.html?v=timeline-20261026
+      - href: experience.html?v=site-20261026-r2
         text: Experience
-      - href: photos.html?v=gallery-20261026
+      - href: photos.html?v=site-20261026-r2
         text: Photos
-      - href: cv.qmd
+      - href: cv.html?v=site-20261026-r2
         text: CV
       - icon: envelope
         href: mailto:Leia.george@osumc.edu

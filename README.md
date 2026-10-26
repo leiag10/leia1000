@@ -33,3 +33,5 @@ Replace `assets/leia-george-cv.docx`, then run `bash scripts/render-cv.sh` with 
 ## Photos
 
 Edit `photos.qmd` and put new photos in `assets/`. The initial gallery uses the existing portrait. Education information remains in the homepage biography and CV.
+
+`styles.css` is retained as a compatibility copy for older cached pages. Keep it synchronized with `portfolio-20261026.css` when updating the design.
