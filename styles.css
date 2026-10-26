@@ -101,4 +101,4 @@ a:focus-visible, button:focus-visible, .btn:focus-visible { outline: 3px solid v
 .photo-gallery figcaption strong { color: var(--velvet); }
 
 /* Center only the Photos page heading. */
-.photos-page #title-block-header .quarto-title .title { text-align: center; }
+body:has(.photo-gallery) #title-block-header .quarto-title .title { text-align: center; }
