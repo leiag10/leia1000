@@ -14,7 +14,7 @@ I earned my Master of Science in Medical Physiology and Biophysics from [**Case 
 
 Beyond research, I am passionate about mental health advocacy, social justice, and addressing structural barriers to equitable care. I value collaborative, accessible, and inclusive science that reflects the diversity of the populations it aims to serve. I am always happy to connect with fellow researchers and potential collaborators!
 
-[Explore my experience](experience.qmd){.btn .btn-primary} [Get in touch](mailto:Leia.george@osumc.edu){.btn .btn-outline-primary}
+[Explore my experience](experience.qmd?v=timeline-20261026){.btn .btn-primary} [Get in touch](mailto:Leia.george@osumc.edu){.btn .btn-outline-primary}
 :::
 
 ::: {.hero-photo}

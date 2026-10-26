@@ -15,7 +15,7 @@ website:
     right:
       - href: index.qmd
         text: About
-      - href: experience.qmd
+      - href: experience.qmd?v=timeline-20261026
         text: Experience
       - href: photos.qmd
         text: Photos
