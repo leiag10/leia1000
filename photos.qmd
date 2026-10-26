@@ -6,4 +6,7 @@ title: Photos
 ![](assets/comp_psych.JPG){fig-alt="Presenting research on anxiety-related cognitive distress using ecological momentary assessment at a poster session." loading="lazy"}
 
 ![](assets/nan.JPG){fig-alt="Presenting a research poster on anxiety and cognitive function in older adults at a conference." loading="lazy"}
+![](assets/suicide_prevention_conference.jpeg){fig-alt="Group photo in front of research posters at a suicide prevention conference." loading="lazy"}
+
+![](assets/suicide_research_symposium.jpeg){fig-alt="Group photo at a suicide research symposium." loading="lazy"}
 :::
