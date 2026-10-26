@@ -17,7 +17,7 @@ website:
         text: About
       - href: experience.html?v=timeline-20261026
         text: Experience
-      - href: photos.qmd
+      - href: photos.html?v=gallery-20261026
         text: Photos
       - href: cv.qmd
         text: CV
@@ -30,7 +30,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: portfolio-20261026.css
     toc: false
     smooth-scroll: true
     lang: en

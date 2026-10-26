@@ -18,7 +18,7 @@ In the prepared cloud environment, Quarto is at `/workspace/tools/quarto-1.4.555
 quarto render
 ```
 
-Edit `index.qmd`, `experience.qmd`, `photos.qmd`, `cv.qmd`, and `styles.css`. Update navigation and site settings in `_quarto.yml`. Update the PDF in `assets/` when a newer CV is available. Biographical details were carried over from the previous website and should be reviewed for currency.
+Edit `index.qmd`, `experience.qmd`, `photos.qmd`, `cv.qmd`, and `portfolio-20261026.css`. Update navigation and site settings in `_quarto.yml`. Update the PDF in `assets/` when a newer CV is available. Biographical details were carried over from the previous website and should be reviewed for currency.
 
 ## Host with GitHub Pages
 
