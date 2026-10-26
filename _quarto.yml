@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - experience.qmd
+    - education.qmd
+    - cv.qmd
+  resources:
+    - assets/
+website:
+  title: Leia George
+  description: Clinical care, mental health research, and a commitment to people.
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - href: education.qmd
+        text: Education
+      - href: cv.qmd
+        text: CV
+      - icon: envelope
+        href: mailto:lxg401@case.edu
+        aria-label: Email Leia
+  page-footer:
+    left: Leia George
+    right: Built with Quarto
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    lang: en

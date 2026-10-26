@@ -1,0 +1,44 @@
+---
+title: "Leia George"
+pagetitle: "Leia George | Clinical care & mental health research"
+title-block-banner: false
+---
+
+::: {.portfolio-hero}
+::: {.hero-copy}
+[CARE · CURIOSITY · CONNECTION]{.eyebrow}
+
+# A commitment to people.
+
+I'm Leia George. My interests bring together clinical care, mental health research, and the science of how we heal.
+
+My background spans medical physiology and biophysics, hands-on clinical support, and research with a focus on mental health. I'm particularly interested in addiction, depression, and the experiences that shape patient care.
+
+[Explore my experience](experience.qmd){.btn .btn-primary} [Get in touch](mailto:lxg401@case.edu){.btn .btn-outline-primary}
+:::
+
+::: {.hero-photo}
+![Portrait of Leia George](assets/headshot.jpg)
+:::
+:::
+
+## Where science meets care
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4 .focus-card}
+### Clinical experience
+Patient-centered support informed by work in clinical and community settings.
+:::
+::: {.g-col-12 .g-col-md-4 .focus-card}
+### Mental health research
+An interest in addiction, suicide prevention, and depression research.
+:::
+::: {.g-col-12 .g-col-md-4 .focus-card}
+### Lifelong learning
+A foundation at Baylor University and graduate study at Case Western Reserve University.
+:::
+:::
+
+## Let's connect
+
+For research opportunities, potential collaborations, or a conversation about shared interests, [reach me by email](mailto:lxg401@case.edu).
