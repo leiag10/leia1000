@@ -38,4 +38,4 @@ Edit `photos.qmd` and put new photos in `assets/`. The initial gallery uses the 
 
 ## Typography
 
-Headings and the site name use Cormorant Garamond; body text uses Libre Caslon Display. Fonts are self-hosted in `assets/fonts/` with their SIL Open Font Licenses. Edit `portfolio-fonts-20261026.css` and synchronize `portfolio-20261026.css` and `styles.css`, which are retained for cached-page compatibility. The embedded CV keeps its document fonts.
+Headings and the site name use self-hosted Cormorant Garamond at its true bold weight (700). Body text, captions, navigation, and controls use the original system sans-serif stack. Font files and licenses are in `assets/fonts/`. Edit `portfolio-fonts-bold.css` and synchronize `portfolio-fonts-20261026.css`, `portfolio-20261026.css`, and `styles.css` for cached-page compatibility. The embedded CV keeps its document fonts.
