@@ -123,4 +123,4 @@ Spring 2018 – Spring 2021
 
 :::
 
-[View my CV](cv.html?v=site-20261026-r2){.btn .btn-primary}
+[View my CV](cv.html?v=site-20261026-fonts){.btn .btn-primary}

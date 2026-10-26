@@ -1,4 +1,10 @@
+@font-face { font-family: "Cormorant Garamond"; src: url("assets/fonts/cormorant-garamond.ttf") format("truetype"); font-style: normal; font-weight: 300 700; font-display: swap; }
+@font-face { font-family: "Cormorant Garamond"; src: url("assets/fonts/cormorant-garamond-italic.ttf") format("truetype"); font-style: italic; font-weight: 300 700; font-display: swap; }
+@font-face { font-family: "Libre Caslon Display"; src: url("assets/fonts/libre-caslon-display.ttf") format("truetype"); font-style: normal; font-weight: 400; font-display: swap; }
 :root {
+  --font-heading: "Cormorant Garamond", Georgia, serif;
+  --font-body: "Libre Caslon Display", Georgia, serif;
+  --bs-body-font-family: var(--font-body);
   --matcha: #b4a64b;
   --velvet: #591e2a;
   --monarch: #d2682b;
@@ -11,12 +17,12 @@
   --bs-link-color: var(--velvet);
   --bs-link-hover-color: var(--moss);
 }
-body { background: var(--paper); color: var(--ink); font-family: system-ui, sans-serif; font-size: 1.06rem; line-height: 1.75; }
+body { background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: 1.2rem; line-height: 1.75; }
 .navbar { background: var(--paper); border-bottom: 1px solid var(--pink-silk); padding-block: 1.15rem; }
-.navbar-brand { font-family: Georgia, serif; font-weight: bold; font-size: 1.5rem; color: var(--ink); }
+.navbar-brand { font-family: var(--font-heading); font-weight: bold; font-size: 1.5rem; color: var(--ink); }
 .navbar a { color: var(--ink); }
 h1,h2,h3 { color: var(--velvet); }
-h1,h2 { font-family: Georgia, serif; letter-spacing: -.035em; }
+h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: 600; letter-spacing: -.015em; }
 h1 { font-size: clamp(2.5rem, 5vw, 4rem); }
 h2 { margin-top: 3rem; border: none; font-size: 2rem; }
 h3 { font-size: 1.15rem; }
@@ -50,7 +56,7 @@ a { color: var(--accent); text-underline-offset: .2em; }
 .timeline-entry:nth-child(even) .timeline-date { grid-column: 2; text-align: left; }
 .timeline-entry:nth-child(even) .timeline-card { grid-column: 1; border-left: 0; border-right: 5px solid var(--card-accent); }
 .timeline-entry:nth-child(even) .timeline-card::before { left: auto; right: -17px; border-right: 0; border-left: 12px solid var(--card-accent); }
-.timeline-card h3 { margin: 0 0 .5rem; font-family: system-ui, sans-serif; font-size: 1.2rem; font-weight: 750; letter-spacing: -.02em; }
+.timeline-card h3 { margin: 0 0 .5rem; font-family: var(--font-heading); font-size: 1.6rem; font-weight: 700; letter-spacing: -.02em; }
 .timeline-organization { font-style: italic; font-size: .95rem; }
 .timeline-card p { font-size: .95rem; line-height: 1.65; }
 .timeline-card p:last-child { margin-bottom: 0; color: var(--moss); }
@@ -102,3 +108,8 @@ a:focus-visible, button:focus-visible, .btn:focus-visible { outline: 3px solid v
 
 /* Center only the Photos page heading. */
 body:has(.photo-gallery) #title-block-header .quarto-title .title { text-align: center; }
+
+/* Use the requested body typeface throughout website controls and captions. */
+button, input, select, textarea, .btn, .navbar .nav-link, .nav-footer, figcaption { font-family: var(--font-body); }
+.btn, .timeline-card p, .timeline-organization { font-size: 1.1rem; }
+.navbar-brand { font-size: 1.9rem; }

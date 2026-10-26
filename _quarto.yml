@@ -9,18 +9,19 @@ project:
   resources:
     - assets/
     - styles.css
+    - portfolio-20261026.css
 website:
   title: Leia George
   description: Clinical care, mental health research, and a commitment to people.
   navbar:
     right:
-      - href: index.html?v=site-20261026-r2
+      - href: index.html?v=site-20261026-fonts
         text: About
-      - href: experience.html?v=site-20261026-r2
+      - href: experience.html?v=site-20261026-fonts
         text: Experience
-      - href: photos.html?v=site-20261026-r2
+      - href: photos.html?v=site-20261026-fonts
         text: Photos
-      - href: cv.html?v=site-20261026-r2
+      - href: cv.html?v=site-20261026-fonts
         text: CV
       - icon: envelope
         href: mailto:Leia.george@osumc.edu
@@ -31,7 +32,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: portfolio-20261026.css
+    css: portfolio-fonts-20261026.css
     toc: false
     smooth-scroll: true
     lang: en
