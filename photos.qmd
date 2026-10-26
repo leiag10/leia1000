@@ -3,5 +3,7 @@ title: Photos
 ---
 
 ::: {.photo-gallery}
-![Leia George](assets/headshot.jpg)
+![](assets/comp_psych.JPG){fig-alt="Presenting research on anxiety-related cognitive distress using ecological momentary assessment at a poster session." loading="lazy"}
+
+![](assets/nan.JPG){fig-alt="Presenting a research poster on anxiety and cognitive function in older adults at a conference." loading="lazy"}
 :::
