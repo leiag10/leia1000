@@ -2,7 +2,7 @@
 title: Experience
 ---
 
-[RESEARCH · CLINICAL CARE · COMMUNITY]{.eyebrow}
+[RESEARCH · CLINICAL · COMMUNITY]{.eyebrow}
 
 ## Where have I worked?
 
