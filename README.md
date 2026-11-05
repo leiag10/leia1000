@@ -39,3 +39,5 @@ Edit `photos.qmd` and put new photos in `assets/`. The initial gallery uses the 
 ## Typography
 
 Headings and the site name use self-hosted Cormorant Garamond at its true bold weight (700). Body text, captions, navigation, and controls use the original system sans-serif stack. Font files and licenses are in `assets/fonts/`. Edit `portfolio-fonts-bold.css` and synchronize `portfolio-fonts-20261026.css`, `portfolio-20261026.css`, and `styles.css` for cached-page compatibility. The embedded CV keeps its document fonts.
+
+The site name and homepage career headline use self-hosted Libre Caslon Text Italic, an open-source alternative to the Adobe Caslon Pro Italic reference. Its font and license are in `assets/fonts/`. The active stylesheet is `portfolio-caslon.css`; keep all older stylesheet copies synchronized for cached-page compatibility. Other headings remain Cormorant Garamond bold and body text remains system sans-serif.
