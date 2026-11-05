@@ -1,3 +1,4 @@
+@font-face { font-family: "Baskervville"; src: url("assets/fonts/baskervville-italic.ttf") format("truetype"); font-style: italic; font-weight: 400 700; font-display: swap; }
 @font-face { font-family: "Libre Caslon Text"; src: url("assets/fonts/libre-caslon-text-italic.ttf") format("truetype"); font-style: italic; font-weight: 400 700; font-display: swap; }
 @font-face { font-family: "Cormorant Garamond"; src: url("assets/fonts/cormorant-garamond.ttf") format("truetype"); font-style: normal; font-weight: 300 700; font-display: swap; }
 @font-face { font-family: "Cormorant Garamond"; src: url("assets/fonts/cormorant-garamond-italic.ttf") format("truetype"); font-style: italic; font-weight: 300 700; font-display: swap; }
@@ -114,9 +115,9 @@ button, input, select, textarea, .btn, .navbar .nav-link, .nav-footer, figcaptio
 .btn, .timeline-card p, .timeline-organization { font-size: .95rem; }
 .navbar-brand { font-size: 1.9rem; }
 
-/* Caslon italic accents only: site name and homepage career headline. */
+/* Baskervville italic accents: site name and homepage career headline. */
 .navbar-brand, .hero-copy h1 {
-  font-family: "Libre Caslon Text", "Adobe Caslon Pro", "Times New Roman", serif;
+  font-family: "Baskervville", "Times New Roman", serif;
   font-style: italic;
   font-weight: 400;
   font-synthesis: none;

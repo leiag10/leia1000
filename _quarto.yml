@@ -12,18 +12,19 @@ project:
     - portfolio-20261026.css
     - portfolio-fonts-20261026.css
     - portfolio-fonts-bold.css
+    - portfolio-caslon.css
 website:
   title: Leia George
   description: Clinical care, mental health research, and a commitment to people.
   navbar:
     right:
-      - href: index.html?v=site-caslon-20261105
+      - href: index.html?v=site-baskervville-20261105
         text: About
-      - href: experience.html?v=site-caslon-20261105
+      - href: experience.html?v=site-baskervville-20261105
         text: Experience
-      - href: photos.html?v=site-caslon-20261105
+      - href: photos.html?v=site-baskervville-20261105
         text: Photos
-      - href: cv.html?v=site-caslon-20261105
+      - href: cv.html?v=site-baskervville-20261105
         text: CV
       - icon: envelope
         href: mailto:Leia.george@osumc.edu
@@ -34,7 +35,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: portfolio-caslon.css
+    css: portfolio-baskervville.css
     toc: false
     smooth-scroll: true
     lang: en
