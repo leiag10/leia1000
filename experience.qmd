@@ -2,8 +2,6 @@
 title: Experience
 ---
 
-[RESEARCH · CLINICAL · COMMUNITY]{.eyebrow}
-
 ## Where have I worked?
 
 My path brings together mental health research, patient care, and a commitment to accessible, inclusive science.
@@ -123,4 +121,4 @@ Spring 2018 – Spring 2021
 
 :::
 
-[View my CV](cv.html?v=site-baskervville-20261105){.btn .btn-primary}
+[View my CV](cv.html?v=site-upright-20261105){.btn .btn-primary}

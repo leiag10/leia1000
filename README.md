@@ -43,3 +43,5 @@ Headings and the site name use self-hosted Cormorant Garamond at its true bold w
 The site name and homepage career headline use self-hosted Libre Caslon Text Italic, an open-source alternative to the Adobe Caslon Pro Italic reference. Its font and license are in `assets/fonts/`. The active stylesheet is `portfolio-caslon.css`; keep all older stylesheet copies synchronized for cached-page compatibility. Other headings remain Cormorant Garamond bold and body text remains system sans-serif.
 
 The active accent font is now Baskervville Italic (regular 400), applied only to the site name and homepage career headline. Edit `portfolio-baskervville.css` and keep the older stylesheet copies synchronized. The font and SIL Open Font License are hosted in `assets/fonts/`.
+
+Page headings now use upright Baskervville, while the site name retains Baskervville Italic. Timeline card text, including role titles, uses Libre Caslon Text. The active stylesheet is `portfolio-upright.css`; older stylesheets remain synchronized for cached-page compatibility.
