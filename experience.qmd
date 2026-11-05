@@ -4,8 +4,6 @@ title: Experience
 
 ## Where have I worked?
 
-My path brings together mental health research, patient care, and a commitment to accessible, inclusive science.
-
 ::: {.career-timeline aria-label="Research and clinical experience, most recent first"}
 
 ::: {.timeline-entry}
